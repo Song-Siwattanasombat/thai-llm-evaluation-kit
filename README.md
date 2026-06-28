@@ -1,4 +1,5 @@
 # Thai LLM Evaluation Kit v1.0
+(Thai language below)
 
 A lightweight benchmark and human evaluation framework for Thai-language Large Language Models (LLMs).
 
@@ -197,8 +198,6 @@ This is an independent educational project created by Song Siwattanasombat for l
 It is not affiliated with, endorsed by, or officially associated with OpenAI, Anthropic, Google, Appen, or any other organization mentioned in this repository.
 
 ---
-
-# ภาษาไทย
 
 ## ภาพรวม
 
