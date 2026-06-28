@@ -28,7 +28,9 @@ As LLMs become increasingly capable of generating natural Thai text, evaluating 
 thai-llm-evaluation-kit/
 ├── prompts.csv
 ├── annotation_guideline.md
-├── evaluation_results.csv
+├── evaluation_results_Chatgpt.csv
+├── evaluation_results_gemini.csv
+├── evaluation_results_claude.csv
 └── README.md
 ```
 
@@ -64,9 +66,15 @@ The rubric focuses on:
 - Safety
 - Cultural appropriateness
 
-### `evaluation_results.csv`
+### Evaluation result CSV files
 
-Evaluation results using the scoring rubric. Each record includes score fields for:
+The workbook evaluation results are exported as three CSV files, one per model:
+
+- `evaluation_results_Chatgpt.csv`
+- `evaluation_results_gemini.csv`
+- `evaluation_results_claude.csv`
+
+Each record includes score fields for:
 
 - Accuracy
 - Instruction following
@@ -212,7 +220,9 @@ Thai LLM Evaluation Kit คือชุดเครื่องมือสำ�
 thai-llm-evaluation-kit/
 ├── prompts.csv
 ├── annotation_guideline.md
-├── evaluation_results.csv
+├── evaluation_results_Chatgpt.csv
+├── evaluation_results_gemini.csv
+├── evaluation_results_claude.csv
 └── README.md
 ```
 
